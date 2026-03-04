@@ -1,0 +1,6 @@
+streamlit
+pandas
+pyvis
+transformers
+torch
+networkx
